@@ -1,0 +1,31 @@
+{
+    "compilerOptions": {
+        "baseUrl": "./src/app/",
+        "paths": {
+            "@layout/*": [
+                "layout/*"
+            ],
+            "@assets/*": [
+                "assets/*"
+            ],
+            "@components/*": [
+                "components/*"
+            ],
+            "@utils/*": [
+                "utils/*"
+            ],
+            "@pages/*": [
+                "pages/*"
+            ],
+            "@services/*": [
+                "services/*"
+            ],
+            "@store/*": [
+                "store/*"
+            ],
+            "@styles/*": [
+                "styles/*"
+            ]
+        }
+    }
+}
