@@ -11,7 +11,7 @@ const NotFound = () => {
             height: '100vh',
             flexDirection: 'column'
         }}>
-            <h1>404 - Pagina não encontrada!</h1>
+            <h1 style={{ textAlign: 'center' }}>404 - Pagina não encontrada!</h1>
 
             <Link to={initRoute}>
                 Voltar
